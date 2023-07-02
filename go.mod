@@ -1,4 +1,4 @@
-module github.com/danielvolchek/goargreader
+module github.com/danielvolchek/goarguments
 
 go 1.20
 
